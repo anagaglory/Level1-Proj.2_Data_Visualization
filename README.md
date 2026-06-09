@@ -19,6 +19,7 @@ Tools Used
 Visualizations Created
 
 * Bar Chart
+* ![Bar Chart](bar_chart.png)
 * Line Chart
 * Scatter Plot
 
