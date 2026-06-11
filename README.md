@@ -19,11 +19,11 @@ Tools Used
 Visualizations Created
 
 * Bar Chart
-* ![Bar Chart](bar_chart.png)
+* ![Bar Chart](Images/bar_chart.png)
 * Line Chart
-* ![Line Chart](line_chart.png)
+* ![Line Chart](Images/line_chart.png)
 * Scatter Plot
-* ![Scatter Plot](scatter_plot.png)
+* ![Scatter Plot](Images/scatter_plot.png)
 
 Dataset
 
